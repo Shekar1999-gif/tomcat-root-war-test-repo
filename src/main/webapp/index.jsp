@@ -46,7 +46,7 @@
 <div>
     <h4>Application Name : <span><%=  hostName %></span></h4>
     <h4>IP Address: <span><%=  ipAddr %></span></h4>
-    <h4>JVM Name: <span><%=  serverName %></span></h4>
+    <h4>Demo JVM Name: <span><%=  serverName %></span></h4>
     <h4> Date & Time: <span> <%= Dtime %></h4>
 </div>
 
